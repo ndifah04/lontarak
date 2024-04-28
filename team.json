@@ -1,0 +1,64 @@
+{
+    "list_desc": [
+      {
+        "Full Name": "Nurman",
+        "Role": "Software Engineer",
+        "About me": "Passionate about creating innovative software solutions.",
+        "Link": {
+          "Github": "https://github.com/johndoe",
+          "LinkedIn": "https://linkedin.com/in/johndoe",
+          "Instagram": "https://instagram.com/johndoe"
+        }
+      },
+      {
+        "Full Name": "Maman",
+        "Role": "Graphic Designer",
+        "About me": "Experienced in creating visually stunning designs.",
+        "Link": {
+          "Github": "https://github.com/janesmith",
+          "LinkedIn": "https://linkedin.com/in/janesmith",
+          "Instagram": "https://instagram.com/janesmith"
+        }
+      },
+      {
+        "Full Name": "Difa",
+        "Role": "Data Scientist",
+        "About me": "Passionate about leveraging data to drive insights and make informed decisions.",
+        "Link": {
+          "Github": "https://github.com/michaeljohnson",
+          "LinkedIn": "https://linkedin.com/in/michaeljohnson",
+          "Instagram": "https://instagram.com/michaeljohnson"
+        }
+      },
+      {
+        "Full Name": "Iful",
+        "Role": "Product Manager",
+        "About me": "Experienced in driving product strategy and delivering successful products.",
+        "Link": {
+          "Github": "https://github.com/sarahwilliams",
+          "LinkedIn": "https://linkedin.com/in/sarahwilliams",
+          "Instagram": "https://instagram.com/sarahwilliams"
+        }
+      },
+      {
+        "Full Name": "Uky",
+        "Role": "Web Developer",
+        "About me": "Passionate about building responsive and user-friendly web applications.",
+        "Link": {
+          "Github": "https://github.com/davidbrown",
+          "LinkedIn": "https://linkedin.com/in/davidbrown",
+          "Instagram": "https://instagram.com/davidbrown"
+        }
+      },
+      {
+        "Full Name": "Algo Dapps",
+        "Role": "Web Developer",
+        "About me": "Passionate about building responsive and user-friendly web applications.",
+        "Link": {
+          "Github": "https://github.com/davidbrown",
+          "LinkedIn": "https://linkedin.com/in/davidbrown",
+          "Instagram": "https://instagram.com/davidbrown"
+        }
+      }
+    ]
+  }

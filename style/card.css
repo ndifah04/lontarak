@@ -1,0 +1,64 @@
+.card-container{
+    width: 341px;
+    height: 434px;
+    background: url(/img/room.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 30px 50px 50px 50px;
+    /* top right bottom left */
+    box-sizing: border-box;
+    display: none;
+    position: fixed;
+    top: 20%;
+    right: 0;
+}
+
+
+.social, a{
+    color: #e3a93b;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.social> * + *{
+    margin-left: 18px;
+}
+
+.content{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-line{
+    width: 86px;
+    border-top: #e3a93b 4px solid;
+    margin: 10px auto 21px 0;
+
+}
+
+.name{
+    font-family: Poppins, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: left;
+    margin-bottom: 11px;
+}
+
+.title{
+    color: #8c98c3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15px;
+    font-family: Poppins, sans-serif;
+}
+
+.desc{
+    color: whitesmoke;
+    font-family: Poppins, sans-serif;
+    line-height: 13px;
+    font-weight: 600;
+    font-size: 8px;
+    margin: 30px auto 100px auto;
+}

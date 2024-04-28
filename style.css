@@ -1,0 +1,27 @@
+@font-face {
+  font-family: harry-p;
+  src: url(/harry_p/HARRYP__.TTF);
+  
+}
+
+.welcome{
+  font-family:  harry-p;
+  font-size: 150px;
+  color: black;
+  position: absolute;
+  margin: auto 40%;
+  top: 37%;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  opacity: 0;
+}
+
+.goodBye{
+  height: 200px;
+  position: absolute;
+  margin: auto 38%;
+  top: 37%;
+  opacity: 0;
+  
+
+}
